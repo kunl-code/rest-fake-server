@@ -1,0 +1,54 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"Kunal",
+            "lastName":"Singh",
+            "age":"26",
+            "email":"kunal.kecua@gmail.com",
+            "sports":["Badminton","Volleyball","TT"],
+            "professionId":"1"
+        },
+        {
+            "id":"2",
+            "firstName":"Keshav",
+            "lastName":"Priyadarshi",            
+            "age":"24",
+            "email":"priyadarshi.keshav@gmail.com",
+            "sports":["Badminton","Volleyball","TT","Cricket","Basketball"],
+            "professionId":"2"
+        },
+        {
+            "id":"3",
+            "firstName":"Dev",
+            "lastName":"Gariya",
+            "age":"31",
+            "email":"dev.gariya@gmail.com",
+            "sports":["Badminton","Volleyball","Cricket"],
+            "professionId":"3"
+        },
+        {
+            "id":"4",
+            "firstName":"Ravi",
+            "lastName":"Sen",
+            "age":"30",
+            "email":"ravi.sen@gmail.com",
+            "sports":["Volleyball"],
+            "professionId":"1"
+        }
+    ],
+    "professions":[
+        {
+            "id":"1",
+            "title":".Net Developer"
+        },
+        {
+            "id":"2",
+            "title":"Polygot Developer"
+        },
+        {
+            "id":"3",
+            "title":"iOS Developer"
+        }
+    ]
+}
